@@ -76,14 +76,47 @@ to deliver time-sensitive digital assets.
 <!-- CERTIFICATIONS -->
 <h2>📜 Certifications</h2>
 
+<!-- CERTIFICATIONS -->
+<h2>📜 Certifications</h2>
+
 <ul>
-  <li>OCI Foundations Associate – Oracle</li>
-  <li>Introduction to Cybersecurity – Cisco</li>
-  <li>Python 1 & Python 2 – Cisco</li>
-  <li>Graphic Design Certification – InAmigos Foundation</li>
-  <li>ServiceNow Micro Certification</li>
-  <li>AWS Cloud Practitioner</li>
+  <li>
+    <a href="https://drive.google.com/file/d/1zvNgx2v36ZyonzYDpvCdb6_9KIPYSRg/view?usp=drive_link" target="_blank">
+      OCI Foundations Associate – Oracle
+    </a>
+  </li>
+
+  <li>
+    <a href="https://drive.google.com/file/d/1PBycVDtcS4oJtiJLb2Q156r3w9d-qSKv/view?usp=drive_link" target="_blank">
+      Introduction to Cybersecurity – Cisco
+    </a>
+  </li>
+
+  <li>
+    <a href="https://drive.google.com/file/d/1Dgdby5fnxj7n47Yvbh-Ohlj5m8HSc-QQ/view?usp=drive_link" target="_blank">
+      Python 1 & Python 2 – Cisco Networking Academy
+    </a>
+  </li>
+
+  <li>
+    <a href="https://drive.google.com/file/d/1hYhBF0pnOvprKX3EqqW69dyMSArxx_a-/view?usp=drive_link" target="_blank">
+      Graphic Design Certification – InAmigos Foundation
+    </a>
+  </li>
+
+  <li>
+    <a href="https://drive.google.com/file/d/1acOSB3qtcit5jRy0Yqs9aI6lOOdgua_C/view?usp=drive_link" target="_blank">
+      ServiceNow Micro Certification
+    </a>
+  </li>
+
+  <li>
+    <a href="https://drive.google.com/file/d/1H9QEVe1JjW2n3bcO_EBMgjfmuPRz9W4o/view?usp=drive_link" target="_blank">
+      AWS Cloud Practitioner
+    </a>
+  </li>
 </ul>
+
 
 <hr>
 
