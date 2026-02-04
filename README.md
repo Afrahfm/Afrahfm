@@ -76,9 +76,6 @@ to deliver time-sensitive digital assets.
 <!-- CERTIFICATIONS -->
 <h2>📜 Certifications</h2>
 
-<!-- CERTIFICATIONS -->
-<h2>📜 Certifications</h2>
-
 <ul>
   <li>
     <a href="https://drive.google.com/file/d/1zvNgx2v36ZyonzYDpvCdb6_9KIPYSRg/view?usp=drive_link" target="_blank">
