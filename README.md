@@ -48,6 +48,14 @@ applications. Seeking Software Development Engineer Internship opportunities.
   </li>
 </ul>
 
+<h3>🤖GraminShiksha – AI-Powered Rural Attendance System</h3>
+<ul>
+  <li>Tech Stack: React, Spring Boot, Java, MySQL</li>
+  <li>Features: multi-modal biometric verification and blockchain-anchored records to eliminate attendance fraud and automate government compliance reporting.</li>
+  <li>
+    <a href="https://github.com/Afrahfm/Attendance_Portal">Source Code</a>
+  </li>
+</ul>
 <hr>
 
 <!-- EXPERIENCE -->
