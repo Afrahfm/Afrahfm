@@ -56,7 +56,6 @@ applications. Seeking Software Development Engineer Internship opportunities.
     <a href="https://github.com/Afrahfm/Attendance_Portal">Source Code</a>
   </li>
 </ul>
-<hr>
 
 <h3>🤖 RootCauseAI – AI-Powered Enterprise Problem Detection Engine</h3>
 <ul>
