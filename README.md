@@ -58,6 +58,16 @@ applications. Seeking Software Development Engineer Internship opportunities.
 </ul>
 <hr>
 
+<h3>🤖 RootCauseAI – AI-Powered Enterprise Problem Detection Engine</h3>
+<ul>
+  <li>Tech Stack: React.js, Node.js, Express.js, MySQL, Google Gemini AI, LinkedIn OAuth, Tailwind CSS</li>
+  <li>Features: AI-Powered Root Cause Analysis, Role-Based Access Control, HR-to-Admin Approval Workflow, Secure Authentication.</li>
+  <li>
+    <a href="https://github.com/Afrahfm/RootCauseAI">Source Code</a>
+  </li>
+</ul>
+<hr>
+
 <!-- EXPERIENCE -->
 <h2>💼 Experience</h2>
 
